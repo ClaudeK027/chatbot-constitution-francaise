@@ -12,7 +12,7 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
 
 1. Clonez le dépôt :
    ```
-   git clone https://github.com/votre-nom-utilisateur/chatbot-constitution-francaise.git
+   git clone https://github.com/ClaudeK027/chatbot-constitution-francaise
    cd chatbot-constitution-francaise
    ```
 
@@ -21,7 +21,7 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
    python -m venv chatbot_env
    ```
 
-3. Activez l'environnement virtuel :
+3. Activez l'environnement virtuel(optionnel) :
    - Sur Windows :
      ```
      chatbot_env\Scripts\activate
@@ -63,6 +63,11 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
 - `main.py` : Script principal (utilisé pour le développement/test)
 
 ## L'interface 
+![image](https://github.com/user-attachments/assets/d771da9d-465c-409d-b8f3-0b16b4386167)
+![image](https://github.com/user-attachments/assets/d4d0e5e0-8fc1-4e12-b769-d29bfd6970f3)
+![image](https://github.com/user-attachments/assets/71e98322-b20e-4ee0-8ddb-5dfaee3b91c8)
+
+
 
 
 ## Dépannage
@@ -70,10 +75,8 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
 - Si vous rencontrez des problèmes avec l'API locale des modèles de langage, assurez-vous qu'Ollama est correctement installé et que les modèles sont disponibles.
 - En cas d'erreur lors du chargement du PDF, vérifiez que le fichier `constitution.pdf` est présent et accessible.
 
-## Contribution
+## En savoir plus.
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+Pour en savoir plus consultez  les fichier `Explications.ipynb` qui explique en détails le fonctionnement de chaque script utilisés dans ce projet.
 
-## Licence
 
-[Insérez ici les informations de licence]
