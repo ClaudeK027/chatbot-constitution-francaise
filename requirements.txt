@@ -1,0 +1,11 @@
+langchain
+chromadb
+streamlit
+transformers
+torch
+sentence-transformers
+pypdf
+scikit-learn
+sentencepiece
+accelerate>=0.26.0
+requests
