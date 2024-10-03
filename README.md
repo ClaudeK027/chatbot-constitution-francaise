@@ -72,6 +72,7 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
 
 ## Dépannage
 
+- Si vous rencontrez des problèmes avec l'installation de chromadb assurez vous d'avoir installé Desktop developpement with C++ via Visual Studio Build Tools
 - Si vous rencontrez des problèmes avec l'API locale des modèles de langage, assurez-vous qu'Ollama est correctement installé et que les modèles sont disponibles.
 - En cas d'erreur lors du chargement du PDF, vérifiez que le fichier `constitution.pdf` est présent et accessible.
 
