@@ -40,7 +40,7 @@ Ce projet implémente un chatbot basé sur la technique de Retrieval Augmented G
 
 1. Assurez-vous que le fichier PDF de la Constitution française (`constitution.pdf`) est présent dans le répertoire du projet.
 
-2. Assurez-vous d'avoir une installation locale d'Ollama avec les modèles Mistral et Phi-2 configurés.
+2. Assurez-vous d'avoir une installation locale d'Ollama avec les modèles Mistral et Phi-3 configurés.
 
 ## Utilisation
 
